@@ -29,9 +29,4 @@ In my pinned repositories, you can find projects that I have either created or c
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### ⏱️ My stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cinnamonbun1233&theme=dark&background=000000)](https://git.io/streak-stats)
