@@ -32,3 +32,11 @@ In my pinned repositories, you can find projects that I have either created or c
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+###
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinnamonbun1233&show_icons=true)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnamonbun1233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
