@@ -1,28 +1,12 @@
-## Hi there 🥸
+## Привет 🥸
 
-<!--
-**Cinnamonbun1233/Cinnamonbun1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Обо мне
 
-Here are some ideas to get you started:
+Меня зовут Дмитрий Титов, я начинающий Java-разработчик из Москвы, Россия.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👨‍💻 About me
+В моих закрепленных репозиториях вы можете найти проекты, которые я создал. Большинство из них — это REST-сервисы, созданные с помощью Spring Boot или Spring Framework.
 
-My name is Dima Titov, Java-developer based in Moscow, Russia.
-
-I am amazed by the ability to create entire worlds within a program using a limited set of commands, particularly in languages built on the OOP paradigm, such as Java. I strive to apply my knowledge in practice and make a positive impact on the world.✨
-
-In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
-
-### 💻 My key technical skills
+### 💻 Мои навыки
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
