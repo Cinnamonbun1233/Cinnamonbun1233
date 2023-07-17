@@ -18,12 +18,16 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinnamonbun1233&show_icons=true)
+[//]: <[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cinnamonbun1233)](https://github.com/cinnamonbun1233/leetcode-stats)>
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnamonbun1233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[//]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cinnamonbun1233&theme=dark&background=000000)](https://git.io/streak-stats)>
 
 ###
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cinnamonbun1233)](https://github.com/cinnamonbun1233/leetcode-stats)
+[//]: <![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinnamonbun1233&show_icons=true)> 
+
+###
+
+[//]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnamonbun1233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
