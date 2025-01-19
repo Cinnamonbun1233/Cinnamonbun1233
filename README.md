@@ -18,7 +18,6 @@
 
 ###
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cinnamonbun1233)](https://github.com/cinnamonbun1233/leetcode-stats)
 
 ###
 
